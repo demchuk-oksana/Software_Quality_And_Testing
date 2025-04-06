@@ -1,0 +1,16 @@
+{
+  "name": "task2",
+  "version": "1.0.0",
+  "main": "lorem.test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "playwright": "^1.51.1"
+  }
+}
